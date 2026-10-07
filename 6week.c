@@ -19,4 +19,5 @@ int main() {
 		printf("잘못된 값을 입력함.\n");
 		break;
 	}
+	return 0;
 }
